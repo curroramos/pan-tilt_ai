@@ -26,7 +26,6 @@ This is a project elaborated for Control Laboratory subject in the Industrial En
 ![Demo 1](/Figures/figure2.png "Demo 1")
 ![Interface](/Figures/figure1.png "Interface")
 
-![Demo VIDEO]({https://drive.google.com/file/d/1VdSRoMb-ZGrC4LjWVGIsqNAujgw4LUKv/view} "")
 
 
 Authors:
