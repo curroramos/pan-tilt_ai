@@ -6,7 +6,7 @@ This is a project elaborated for Control Laboratory subject in the Industrial En
 ```sh
 .
 ├── Figures
-│   ├── figura2.png
+│   ├── figure2.png
 │   └── figure1.png
 ├── README.md
 ├── app
@@ -23,10 +23,10 @@ This is a project elaborated for Control Laboratory subject in the Industrial En
 ```
 
 ## Demo
-![Demo 1](/Figures/figura2.png "Demo 1")
-![Interface](/Figures/figura1.png "Interface")
+![Demo 1](/Figures/figure2.png "Demo 1")
+![Interface](/Figures/figure1.png "Interface")
 
-[![Demo 2]]({https://drive.google.com/file/d/1VdSRoMb-ZGrC4LjWVGIsqNAujgw4LUKv/view} "")
+![Demo VIDEO]({https://drive.google.com/file/d/1VdSRoMb-ZGrC4LjWVGIsqNAujgw4LUKv/view} "")
 
 
 Authors:
