@@ -1,7 +1,5 @@
 # pan-tilt_ai
 
-This is a project elaborated for Control Laboratory subject in the Industrial Engineering degree in ETSI Seville.
-
 ## Contents
 ```sh
 .
